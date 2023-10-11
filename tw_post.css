@@ -92,3 +92,12 @@ body {
 .none {
     color: white;
 }
+
+a {
+    color: rgb(29, 155, 240);
+    text-decoration: none;
+}
+
+.replyLink {
+    color: #536471 !important;
+}
